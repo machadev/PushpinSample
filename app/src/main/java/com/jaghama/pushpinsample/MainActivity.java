@@ -24,7 +24,7 @@ import org.osmdroid.views.overlay.OverlayItem;
 
 import java.util.ArrayList;
 
-
+// メインアクティビティクラス
 public class MainActivity extends ActionBarActivity implements GoogleApiClient.ConnectionCallbacks,LocationListener, GoogleApiClient.OnConnectionFailedListener {
 
     private MapView m_map;
